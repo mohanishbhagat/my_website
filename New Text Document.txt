@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number System</title>
+</head>
+<body>
+
+    <h1>Number System for Standard Six Students</h1>
+    <p>Hum log number system ke baare mein zyada detail mein padhte hain. Yaha pe kuch important topics hain:</p>
+
+    <h2>Natural Numbers (Prakrutik Sankhyaen)</h2>
+    <p>1, 2, 3, aur aise hi aage badhne wali sankhyaen. Inka koi end nahi hota.</p>
+
+    <h2>Whole Numbers (Poorn Sankhyaen)</h2>
+    <p>Yeh natural numbers ke saath zero (0) ko bhi include karte hain. 0, 1, 2, 3...</p>
+    
+    <h2>Integers (Poornank Sankhyaen)</h2>
+    <p>Isme positive numbers (+1, +2, +3,...), negative numbers (-1, -2, -3,...), aur zero (0) sabhi shamil hain.</p>
+
+    <h2>Rational Numbers (Parimeya Sankhyaen)</h2>
+    <p>Inhe hum fraction (bhag) ke roop mein likh sakte hain, jaise p/q, jaha p aur q integers hain aur q zero.</p>
+
+    <!-- Continue with the rest of your text, structuring it as needed -->
+
+</body>
+</html>
